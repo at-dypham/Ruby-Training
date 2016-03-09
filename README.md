@@ -1,6 +1,6 @@
-# [Ruby on Rails](http://rubyonrails.org/)
+# Ruby on Rails Learning
 
-> Learning something from scratch is almost always an arduous affair -- you simply have no idea as to where to start, or not to start, to kick things off. You don't have to worry about finding the best resources, sorting out the bad ones, and figuring out what to learn next. It's all here. Just follow it, step by step.
+**Inspired from Sagar M.**
 
 ## Table of Contents
 
@@ -37,101 +37,101 @@
 
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-Ruby |[Try Ruby](http://tryruby.org/)|Easy | Web
-Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)|Easy | Web
-HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy| Web
-Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
-Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy| Book & Video
-Rails |[Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)| Very Easy| Book
+Git |[Git Guide - No deep shit!](http://rogerdudler.github.io/git-guide/)|Easy | Web
+Ruby |[Ruby - Ruby Primer](https://rubymonk.com/learning/books/1-ruby-primer)|Easy| Web
+Ruby |[Ruby - Ruby Primer: Ascent](https://rubymonk.com/learning/books/4-ruby-primer-ascent)|Medium| Web
+Rails |[Rails - Rails Tutorial](https://www.railstutorial.org/book)|Medium| Web
 
 #### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy | Video
-Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy | Web
-Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Easy|Book
-Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Easy|Web
+Documentation |[Tomdoc - Documentation](http://tomdoc.org/)|Easy| Web
+SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy|Video
 
+#### Expectation
 
+**Ruby**
+
+Understand about String, Hash, Array, Condition and Loop, Method and Module.
+Understand about Proc, Lambda and Block.
+Understand about OOP, Class Inheritance, Collection, Debugging and Exception.
+*Practice:* [Ruby_Practice.md](ruby_practice.md)
+
+**Rails**
+
+Understand MVC in Rails.
+Understand ActiveRecord, RelationShip in Rails application.
+How to deploy Rails application to Heroku.
+*Practice:* Make a blog with basic features.
 
 # Intermediate
 
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium|Web
-Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
-Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium|Video
-Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium|Book
-Rails|[CS169.1x Engineering Software as a Service, Part 1](https://www.edx.org/course/engineering-software-service-saas-part-1-uc-berkeleyx-cs169-1x)|Medium|Web
+API on Rails|[API on Rails](http://apionrails.icalialabs.com/book/chapter_one)|Medium| Web
+RSpec |[Everyday Testing with RSpec](https://leanpub.com/everydayrailsrspec)|Medium| Book
 
 #### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy|Video
-jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy|Video
-Rails | [The Rails 4 Way](https://leanpub.com/tr4w)|Medium|Book
+RSpec|[RSpec Example](https://github.com/eliotsykes/rspec-rails-examples/)|Medium|Web
 
+#### Expectation
+
+**API**
+
+What's API?
+How to build API application.
+Authenticate in API application.
+JSON serializer.
+
+**RSpec**
+
+Setting Up RSpec.
+Models Spec.
+Controller Spec.
+Feature Spec.
+Speeding up spec.
+*Practice:*
+- Re-implement the Blog app with full test.
+- Re-implement API app with full test.
 
 # Advanced
 
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-Ruby |[Ruby - RubyKoans](http://rubykoans.com/)|Medium|Book
-Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Hard|Book
-Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Hard|Book
+Docker Tutorial|[Docker Tutorial](https://www.youtube.com/playlist?list=PLoYCgNOIyGAAzevEST2qm2Xbe3aeLFvLc)|Medium|Video
+Rails on Docker|[Rails on Docker](https://robots.thoughtbot.com/rails-on-docker)|Medium|Web
+Growing Rails Applications in Practice|[Growing Rails Applications](https://leanpub.com/growing-rails)|Medium|Book
+Architecture|[Trailblazer - New architecture for Rails](https://leanpub.com/trailblazer)|Hard|Book
 
 #### Additional
 Path | Courses | Difficulty | Type
 :--: | :-- | :--: | :--:
-Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
-
-## Other Courses
-Path | Courses | Level| Type |Access |Platform
-:--: | :-- | :--: | :--:|:--:|:--:
-Ruby|[Ruby Bits](https://www.codeschool.com/courses/ruby-bits)|Beginner|Web|Paid|CodeSchool
-Ruby|[Ruby Bits Part 2](https://www.codeschool.com/courses/ruby-bits-part-2)|Intermediate|Web|Paid|CodeSchool
-Rails |[Rails for Zombies 2](https://www.codeschool.com/courses/rails-for-zombies-2)|Intermediate|Web|Paid|CodeSchool
-Rails|[Surviving APIs with Rails](https://www.codeschool.com/courses/surviving-apis-with-rails)|Intermediate|Web|Paid|CodeSchool
-Rails|[Rails 4 Patterns](https://www.codeschool.com/courses/rails-4-patterns)|Advanced|Web|Paid|CodeSchool
-Rails|[Rails Testing for Zombies](https://www.codeschool.com/courses/rails-testing-for-zombies)|Intermediate|Web|Paid|CodeSchool
-Rails|[Testing with RSpec](https://www.codeschool.com/courses/testing-with-rspec)|Intermediate|Web|Paid|CodeSchool
-Rails | [One Month Rails](https://onemonth.com/courses/one-month-rails/)|Beginner|Video|Paid|OneMonthRails
-Rails|[Learn Rails Development](https://teamtreehouse.com/tracks/rails-development)|Beginner|Video|Paid|Treehouse
-Rails|[Web Application Architectures](https://www.coursera.org/course/webapplications)|Beginner|Web|Free|Coursera
-Rails|[Learn Ruby on Rails](https://www.codecademy.com/courses/learn-rails)|Beginner|Web|Free|Codecademy
-Rails|[Ruby on Rails 4 Essential Training](http://www.lynda.com/Ruby-Rails-tutorials/Ruby-Rails-4-Essential-Training/139989-2.html)|Beginner|Video|Paid|Lynda.com
-Ruby|[Learn Ruby](http://code.tutsplus.com/categories/ruby/courses)|All|Video|Paid|envatotuts+
-Rails|[Learn Rails](http://code.tutsplus.com/categories/rails/courses)|All|Video|Paid|envatotuts+
-
+Make your own gem|[Make your own gem](http://guides.rubygems.org/make-your-own-gem/)|Easy|Book
+Metaprogramming|[Metaprogramming Ruby 2](https://pragprog.com/book/ppmetr2/metaprogramming-ruby-2)|Hard|Book
+Exceptional Ruby|[Exceptional Ruby - Master the art of handling failure in Ruby](http://exceptionalruby.com/)|Hard|Book
 
 ---
 
 # Books
 
 ### Beginner
+
 1. [Learn to Program](https://pine.fm/LearnToProgram/)
-1. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
-1. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
-1. [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
-1. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
-1. [Learn Ruby on Rails (Daniel Kehoe)](http://learn-rails.com/learn-ruby-on-rails.html)
-1. [Ruby on Rails Tutorial](https://www.railstutorial.org/)
-1. [Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+2. [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+3. [Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
 
 ### Intermediate
 
 1. [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
-1. [The Well-Grounded Rubyist](https://www.manning.com/books/the-well-grounded-rubyist)
-1. [Rails 4 in Action](https://www.manning.com/books/rails-4-in-action)
+2. [Modular Rails](http://modular-rails.samurails.com/)
+3. [Ruby Science](https://gumroad.com/l/ruby-science)
 
 ### Advanced
 
-1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
-1. [Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)
 1. [Rails AntiPatterns: Best Practice Ruby on Rails Refactoring](http://www.amazon.com/Rails-AntiPatterns-Refactoring-Addison-Wesley-Professional/dp/0321604814)
-1. [The Rails 4 Way](https://leanpub.com/tr4w)
-1. [Eloquent Ruby](http://eloquentruby.com/)
-1. [Design Patterns in Ruby](http://designpatternsinruby.com/)
+2. [Design Patterns in Ruby](http://designpatternsinruby.com/)
 
 # Tutorials
 
@@ -170,8 +170,6 @@ Ubuntu | [Install Ruby on Rails on Ubuntu](http://railsapps.github.io/installrub
 - [RubyMine](https://www.jetbrains.com/ruby/)
 - [Vim](http://www.vim.org/)
 - [Atom](http://www.atom.io)
-
-
 
 # Built with Rails
 
