@@ -52,17 +52,17 @@ SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy|V
 
 **Ruby**
 
-Understand about String, Hash, Array, Condition and Loop, Method and Module.
-Understand about Proc, Lambda and Block.
-Understand about OOP, Class Inheritance, Collection, Debugging and Exception.
-*Practice:* [Ruby_Practice.md](ruby_practice.md)
+- Understand about String, Hash, Array, Condition and Loop, Method and Module.
+- Understand about Proc, Lambda and Block.
+- Understand about OOP, Class Inheritance, Collection, Debugging and Exception.
+- *Practice:* [Ruby_Practice.md](ruby_practice.md)
 
 **Rails**
 
-Understand MVC in Rails.
-Understand ActiveRecord, RelationShip in Rails application.
-How to deploy Rails application to Heroku.
-*Practice:* Make a blog with basic features.
+- Understand MVC in Rails.
+- Understand ActiveRecord, RelationShip in Rails application.
+- How to deploy Rails application to Heroku.
+- *Practice:* Make a blog with basic features.
 
 # Intermediate
 
@@ -80,21 +80,21 @@ RSpec|[RSpec Example](https://github.com/eliotsykes/rspec-rails-examples/)|Mediu
 
 **API**
 
-What's API?
-How to build API application.
-Authenticate in API application.
-JSON serializer.
+- What's API?
+- How to build API application.
+- Authenticate in API application.
+- JSON serializer.
 
 **RSpec**
 
-Setting Up RSpec.
-Models Spec.
-Controller Spec.
-Feature Spec.
-Speeding up spec.
-*Practice:*
-- Re-implement the Blog app with full test.
-- Re-implement API app with full test.
+- Setting Up RSpec.
+- Models Spec.
+- Controller Spec.
+- Feature Spec.
+- Speeding up spec.
+- *Practice:*
+  + Re-implement the Blog app with full test.
+  + Re-implement API app with full test.
 
 # Advanced
 
